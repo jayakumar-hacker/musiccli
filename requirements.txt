@@ -1,0 +1,8 @@
+# MusiCLI – Python dependencies
+# Install with: pip install -r requirements.txt
+
+yt-dlp>=2024.1.1          # YouTube search + stream URL resolution
+# ffplay is part of ffmpeg – install via your OS package manager:
+#   Ubuntu/Debian: sudo apt install ffmpeg
+#   macOS:         brew install ffmpeg
+#   Windows:       winget install ffmpeg
